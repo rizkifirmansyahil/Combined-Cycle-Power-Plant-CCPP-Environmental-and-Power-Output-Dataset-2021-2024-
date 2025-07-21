@@ -96,3 +96,20 @@ Dataset ini cocok untuk penelitian ilmiah karena:
 Dataset ini disintesis sebagai bagian dari penelitian di bidang pembangkitan energi berbasis machine learning, khususnya untuk prediksi daya pada Pembangkit Listrik Tenaga Gas dan Uap (PLTGU). Proses sintesis dilakukan menggunakan bahasa pemrograman Python dengan bantuan pustaka *Scikit-learn* dan *Pandas* untuk manipulasi data serta pelatihan model prediktif.
 
 ---
+## ⚖️ Lisensi
+
+**Lisensi**: [CC BY 4.0 – Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+
+Anda bebas untuk:
+
+- **Membagikan** — menyalin dan menyebarluaskan materi dalam format atau media apapun  
+- **Mengadaptasi** — menggubah, mengubah, dan membuat turunan dari materi ini  
+
+Dengan syarat:
+
+- **Atribusi** — Anda harus menyertakan atribusi yang sesuai (contoh: nama pembuat dan sumber asal), menyediakan tautan ke lisensi ini, dan menyatakan jika ada perubahan yang dilakukan.
+
+🔗 https://creativecommons.org/licenses/by/4.0/
+
+> *Dataset ini disintesis berdasarkan karakteristik data publik dari UCI Machine Learning Repository: [Combined Cycle Power Plant (CCPP)](https://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant) – © UCI ML Repository*
+
