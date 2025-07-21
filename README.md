@@ -38,7 +38,7 @@ Dataset terdiri dari **10.000 entri** tanpa informasi waktu eksplisit (karena di
 
 ### 1. **Sumber Data Asli**
 Dataset asli diperoleh dari:
-> Tufekci, P. (2014). *Prediction of full load electrical power output of a base load operated combined cycle power plant using machine learning methods*. Energy, 60, 1–9. https://doi.org/10.1016/j.energy.2013.07.032
+> Tufekci, P. (2014). *Prediction of full load electrical power output of a base load operated combined cycle power plant using machine learning methods*. Energy, 60, 1–9. [https://doi.org/10.1016/j.energy.2013.07.032](https://doi.org/10.1016/j.ijepes.2014.02.027)
 
 ### 2. **Replikasi Fitur**
 - Data lingkungan (`AT`, `V`, `AP`, `RH`) di-*bootstrap* dari dataset UCI untuk mempertahankan distribusi dan pola alami.
