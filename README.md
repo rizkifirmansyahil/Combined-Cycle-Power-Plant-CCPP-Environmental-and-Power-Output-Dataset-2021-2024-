@@ -3,7 +3,7 @@
 
 ## 📁 File: `ccpp_env_2020_2025.xlsx`
 
-Dataset ini merupakan data lingkungan dan keluaran daya realistis yang disusun untuk merepresentasikan keluaran daya dari Pembangkit Listrik Tenaga Gas dan Uap (PLTGU) berdasarkan pengaruh faktor-faktor lingkungan. Dataset ini dikembangkan sebagai bentuk rekonstruksi akademik dari dataset Combined Cycle Power Plant (CCPP) yang tersedia di UCI Machine Learning Repository, guna menjawab kebutuhan analisis prediktif yang relevan dengan periode waktu dan skenario operasional terkini.
+Dataset ini merupakan himpunan data lingkungan dan keluaran daya yang dirancang untuk merepresentasikan performa Pembangkit Listrik Tenaga Gas dan Uap (PLTGU) dalam rentang waktu tahun 2020 hingga Januari 2025. Dataset ini memuat 10.000 baris data hasil pencatatan kondisi lingkungan dan output daya setiap jam, yang dilakukan selama dua hari setiap pekan secara konsisten selama lima tahun. Pola pencatatan tersebut disusun untuk mencerminkan variasi musiman serta dinamika operasional secara realistis. Dataset ini dikembangkan sebagai bentuk rekonstruksi ilmiah terhadap struktur dan fitur dataset Combined Cycle Power Plant (CCPP) dari UCI Machine Learning Repository, dengan penyesuaian pada konteks temporal dan kebutuhan analisis prediktif masa kini.
 > Penyusunan data dilakukan dengan mengikuti pola distribusi statistik, hubungan antar variabel, serta karakteristik sistem pada data asli CCPP, sehingga tetap mewakili dinamika nyata dalam sistem pembangkitan energi dan dapat digunakan sebagai dasar eksperimen ilmiah.
 
 ---
