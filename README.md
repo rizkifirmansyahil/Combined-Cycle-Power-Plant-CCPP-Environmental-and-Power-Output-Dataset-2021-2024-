@@ -1,7 +1,7 @@
 
-# 📊 CCPP Environmental Data 2021–2024 
+# 📊 CCPP Environmental Data 2020–2025
 
-## 📁 File: `ccpp_env_2021_2024.xlsx`
+## 📁 File: `ccpp_env_2020_2025.xlsx`
 
 Dataset ini merupakan data lingkungan dan keluaran daya realistis yang disusun untuk merepresentasikan keluaran daya dari Pembangkit Listrik Tenaga Gas dan Uap (PLTGU) berdasarkan pengaruh faktor-faktor lingkungan. Dataset ini dikembangkan sebagai bentuk rekonstruksi akademik dari dataset Combined Cycle Power Plant (CCPP) yang tersedia di UCI Machine Learning Repository, guna menjawab kebutuhan analisis prediktif yang relevan dengan periode waktu dan skenario operasional terkini.
 > Penyusunan data dilakukan dengan mengikuti pola distribusi statistik, hubungan antar variabel, serta karakteristik sistem pada data asli CCPP, sehingga tetap mewakili dinamika nyata dalam sistem pembangkitan energi dan dapat digunakan sebagai dasar eksperimen ilmiah.
